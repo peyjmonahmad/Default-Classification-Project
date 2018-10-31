@@ -1,5 +1,5 @@
 # Project-McNulty
-Predicting whether a customer is more likely to default or honor their bank loan
+Predicting whether a customer is more likely to default or honor a loan given by Credit One Bank.
 
 This repository consists of the jupyter notebook that goes through the process of exploratory data analysis and three different classification models in order to predict whether a customer defaulted or not.
 
