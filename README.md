@@ -7,3 +7,5 @@ First, I had to decide which features were the most important towards making pre
 Next, I utilized several classification models to accurately predict loan defaults.  These algorithms include logistic regression, K nearest neighbors, and random forest.  All the models made fairly smooth predictions, but one still performed better than others.  I also did some hyperparameter tuning to find optimal parameters with overfitting the model.
 
 Lastly, I analyzed coefficients of the results to establish default likelihood changes for each unit increase/decrease of a specific feature.  The process of the modeling can be found in the Final Project (.ipynb) notebook.
+
+I constructed a basic flask web application that lets you input a few features and predicts whether you will default or honor your loan!
